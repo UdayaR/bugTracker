@@ -1,0 +1,25 @@
+{
+  "name": "bug_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UdayaR/bugTracker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UdayaR/bugTracker/issues"
+  },
+  "homepage": "https://github.com/UdayaR/bugTracker#readme",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  },
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
